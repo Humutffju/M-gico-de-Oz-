@@ -5,13 +5,15 @@
 <h2>Código</h2>
 <h2>Personagens</h2>
 <h3>Dorothy Gale</h3>
-<p></p>
+<p>Dorothy Gale é uma jovem que vive em uma fazenda no Kansas com seus tios. Quando um tornado atinge a região, ela e seu cão Totó são transportados para o mágico reino de Oz.
+<p>Neste Reino Mágico, ela consegue um par de sapatos de rubi após chegar no mundo,e começa a ter aventuras</p>
+</p>
 <h3>Bruxa Malvada do Oeste</h3>
 <p></p>
 <h2>Por trás da cena</h2>
 <p></p>
 <h2>Cena</h2>
-<p>A cena vai começar com a Bruxa Atrás de Dorothy, Dorothy ira correr da bruxa desviando de paredes, subindo escadas, caso a Dorothy colida com as paredes infelizmente ela será capturada, e ninguem vai saber, o que ocorrerá com a querida sapatinhos de rubi, porém caso ela consiga se esquivar de todos os obstaculos, ela pegara o balde de agua, e água + bruxa = derretimento, assim Dorothy consegue não apenas sair de lá, mas sair de lá como heroína, pois a Bruxa não estaria mas entre nós</p>
+<p>A cena começará com a bruxa atrás de Dorothy. Dorothy irá correr da bruxa, desviando de paredes, subindo escadas. Caso ela colida com as paredes, infelizmente será capturada, e ninguém saberá o que ocorrerá com os queridos sapatinhos de rubi. Porém, se ela conseguir se esquivar de todos os obstáculos, ela pegará o balde de água, e água + bruxa = derretimento. Assim, Dorothy consegue não apenas sair de lá, mas sair de lá como heroína, pois a bruxa não estaria mais entre nós.</p>
 <image>
 
 </image>
