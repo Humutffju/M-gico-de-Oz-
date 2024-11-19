@@ -12,3 +12,6 @@
 <p></p>
 <h2>Cena</h2>
 <p>A cena vai começar com a Bruxa Atrás de Dorothy, Dorothy ira correr da bruxa desviando de paredes, subindo escadas, caso a Dorothy colida com as paredes infelizmente ela será capturada, e ninguem vai saber, o que ocorrerá com a querida sapatinhos de rubi, porém caso ela consiga se esquivar de todos os obstaculos, ela pegara o balde de agua, e água + bruxa = derretimento, assim Dorothy consegue não apenas sair de lá, mas sair de lá como heroína, pois a Bruxa não estaria mas entre nós</p>
+<image>
+
+</image>
