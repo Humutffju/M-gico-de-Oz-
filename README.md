@@ -3,6 +3,13 @@
 <h5>Samuel Paiva Souza</h5>
 <h5>Vitor Vicente Paz Cunha</h5>
 <h2>Código</h2>
+Código de Movimentação
+Código de Movimento da camera
+Código de Pulo
+Código de Colisão de obstaculos
+Código de Colisão do Balde
+
+
 <h2>Personagens</h2>
 <h3>Dorothy Gale</h3>
 <p>Dorothy Gale é uma jovem que vive em uma fazenda no Kansas com seus tios. Quando um tornado atinge a região, ela e seu cão Totó são transportados para o mágico reino de Oz.
