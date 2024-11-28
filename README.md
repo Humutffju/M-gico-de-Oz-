@@ -1,4 +1,4 @@
-# Mágico de Oz 
+# Mágico de Oz (Cena da Bruxa Malvada do Oeste perseguindo Dorothy)
 <h3>Nomes dos Participantes</h3>
 <h5>Samuel Paiva Souza</h5>
 <h5>Vitor Vicente Paz Cunha</h5>
