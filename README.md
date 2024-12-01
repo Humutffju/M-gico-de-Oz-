@@ -20,3 +20,5 @@ Eles conseguem fugir para cima, mas a bruxa havia mandado guardas por ambos os l
 <p>A cena começará com a bruxa atrás de Dorothy. Dorothy irá correr da bruxa, desviando de paredes, subindo escadas. Caso ela colida com as paredes, infelizmente será capturada, e ninguém saberá o que ocorrerá com os queridos sapatinhos de rubi. Porém, se ela conseguir se esquivar de todos os obstáculos, ela pegará o balde de água, e água + bruxa = derretimento. Assim, Dorothy consegue não apenas sair de lá, mas sair de lá como heroína, pois a bruxa não estaria mais entre nós.</p>
 <h2>Jogo completo</h2>
 https://drive.google.com/file/d/1b1WqLDjKLKQjXVwiFoYEtb_8OjYMBA8W/view?usp=drive_link
+
+<h1>O meu computador não está ligando por isso n consigo terminar o projeto do jogo aqui </h1>
